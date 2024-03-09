@@ -9,6 +9,16 @@ int main()
     int first = 0;
     int second = 1;
     int ans = 0;
+    if (n == 1)
+    {
+        cout << first << '\n';
+        return 0;
+    }
+    if (n == 2)
+    {
+        cout << second << '\n';
+        return 0;
+    }
     for (int i = 3; i <= n; i++)
     {
         ans = first + second;
