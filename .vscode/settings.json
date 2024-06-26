@@ -6,7 +6,8 @@
     "__bit_reference": "cpp",
     "bitset": "cpp",
     "unordered_map": "cpp",
-    "string": "cpp"
+    "string": "cpp",
+    "iostream": "cpp"
   },
   "C_Cpp.errorSquiggles": "enabled"
 }
