@@ -12,7 +12,7 @@ int main()
     if n = 4 then
     -1 + 2 - 3 + 4 = 2 , 2 == n/2
 
-    if n = 7 then
+    if n = 7 odd then
     -1 + 2 -3 + 4 -5 + 6 - 7 =  -4 , -4 == (n/2 + 1)
 
 
